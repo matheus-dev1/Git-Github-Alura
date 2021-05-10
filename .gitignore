@@ -1,0 +1,4 @@
+# Ignora um arquivo
+ide-config
+# Ignora uma pasta
+ide/
